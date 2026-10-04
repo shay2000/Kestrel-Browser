@@ -24,11 +24,11 @@ Kestrel uses Apple's WebKit engine. Chromium extensions are not fully supported.
 
 ## Screenshots
 
-### New Tab, pins and bookmarks
+### New Tab with colourful pins and student tabs
 
-![Kestrel New Tab with colourful pinned sites, open tabs and saved website shortcuts.](screenshots/new-tab.png)
+![Kestrel New Tab with colourful pinned sites, Google Docs, Drive, Classroom, Gmail and Calendar tabs, and saved website shortcuts.](screenshots/new-tab.png)
 
-The New Tab page brings search, pinned sites, open tabs and saved website shortcuts together.
+The New Tab page brings search, pinned sites, open tabs and saved website shortcuts together. The sidebar shows public Google product pages and Khan Academy without signed-in accounts or private documents.
 
 ### Split view
 
@@ -36,9 +36,15 @@ The New Tab page brings search, pinned sites, open tabs and saved website shortc
 
 Each pane has its own address bar and page controls.
 
-### Assistant
+### Assistant beside a study page
 
-![Kestrel Assistant with the model picker above the message composer.](screenshots/assistant.png)
+![Kestrel's Assistant sidebar beside Khan Academy's public student landing page, with the model picker above the composer.](screenshots/assistant-sidebar.png)
+
+Keep the Assistant beside a page while you browse. This capture uses Khan Academy's public landing page and contains no student account or document content.
+
+### Assistant page
+
+![Kestrel's standalone Assistant page with a solid header and the model picker above the message composer.](screenshots/assistant.png)
 
 Choose a provider above the composer. Web search is managed in Settings.
 
